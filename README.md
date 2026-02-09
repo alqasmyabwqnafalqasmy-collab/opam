@@ -1,4 +1,4 @@
-# opam - A Package Manager for OCaml
+ # opam - A Package Manager for OCaml
 
 |master|2.0|2.1|
 |--|--|--|
